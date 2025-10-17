@@ -10,3 +10,7 @@ El asistente permite mantener una conversación natural con el usuario, **record
 Al concluir una compra, el sistema **envía un resumen del pedido** al correo electrónico proporcionado por el usuario.  
 
 El modelo utiliza un **pequeño RAG simulado**, integrando directamente el inventario de productos y precios dentro del contexto conversacional, junto con un conjunto de **reglas personalizadas** que guían el comportamiento del asistente.
+
+---
+
+![Interfaz de Retailbot](images/retailbot-img.png)
