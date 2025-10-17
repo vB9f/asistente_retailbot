@@ -13,4 +13,6 @@ El modelo utiliza un **pequeño RAG simulado**, integrando directamente el inven
 
 ---
 
+## 🧩 Interfaz del asistente
+
 ![Interfaz de Retailbot](images/retailbot-img.png)
